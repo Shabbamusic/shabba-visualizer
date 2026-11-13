@@ -1,10 +1,24 @@
 # SHABBA Visualizer
 
-A browser audio visualizer for DJs, producers, VJs, and music video creators. Play live with rekordbox, Ableton, or a microphone, or drop in a track and let the Director plan a visual timeline.
+Your music already has motion. Visualizer Lite lets you see it: play a sample, load a track, connect a live source, and watch the visuals respond to the sound. The free Lite studio runs in your browser.
 
 - [Open the studio](https://visualizer.shabbamusic.com/studio/)
 - [Product overview and features](https://visualizer.shabbamusic.com)
 - [SHABBA Music on YouTube](https://www.youtube.com/@ShabbaSounds)
+
+## Start with a source
+
+The Studio screen shows the available audio sources, including a built-in demo track, a local file, system audio, a stream, an interface, Ableton, or a microphone. No account is needed to try Lite.
+
+![SHABBA Visualizer Lite Studio landing screen with its eight engines and audio source choices](assets/screenshots/studio-sources.png)
+
+The free Lite version can run in the browser. This sample track is playing through the colourful Arc scene, with the preset library and controls open.
+
+![SHABBA Visualizer Lite playing a demo track through the Arc scene, with the scene library and controls visible](assets/screenshots/live-demo.png)
+
+## Your first two minutes
+
+Open the Studio, choose **Play a 2-Minute Demo**, and pick a scene. Press **P** to open the controls while the track plays. Try a different scene and watch how the same music changes character.
 
 ## Free in the browser
 
